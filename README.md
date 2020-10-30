@@ -3,4 +3,4 @@ Build A Complete Bootstrap Website with HTML5, CSS3, Bootstrap 4 &amp; VS Code -
 
 # Preview
 
-![preview](preview.jpg)
+![preview](preview.png)
